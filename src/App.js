@@ -26,7 +26,7 @@ function App() {
      <TextForm heading="Enter To Text To Analize Below" mode={mode}/>
       <About/>
       </div> 
-    </>
+    </> 
   );
 }
 
